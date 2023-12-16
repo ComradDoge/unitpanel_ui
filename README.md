@@ -5,8 +5,9 @@ Achievement / Multiplayer Compatible.
 
 Compatible with any mod that does not touch:
 countrymilitaryview.gui
-unitpanel_main.gui
+explore_mission_dialog.gui
 navalmissions.gui
+unitpanel_main.gui
 unitpanel_sub.gui
 unitpanel_card.gui
 [/quote]
