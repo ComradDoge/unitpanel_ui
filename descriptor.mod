@@ -1,3 +1,6 @@
+dependencies={
+	"Bigger UI V1.36"
+}
 tags={
 	"Graphics"
 }
